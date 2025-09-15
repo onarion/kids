@@ -1,0 +1,20 @@
+{
+  "collectionTitle": "As Fabulas Ritmadas da Belinha",
+  "language": "en-us",
+  "version": "1.0",
+  "vignettes": {},
+  "characters": {
+    "belinha": {
+      "sheet": "media.character.belinha.sheet",
+      "sheet_prompt": "Character sheet for a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear, watercolor illustration, storybook aesthetic, soft pastel colors, gentle lighting. Showing multiple expressions (happy, sad, curious, singing) and poses (standing, sitting, skipping), including a full body neutral standing pose. Consistent character design, plain white background, centered. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark.",
+      "sprites": "media.character.belinha.sprites",
+      "sprites_prompt": "Game sprite sheet for a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear, watercolor illustration. Multiple action poses (walking, jumping, singing, smelling a flower). Clean background, 8-frame animation sequence. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark."
+    }
+  },
+  "locations": {
+    "prado_do_rima_rima": {
+      "key": "media.location.prado_do_rima_rima",
+      "prompt": "Breathtaking watercolor illustration, storybook aesthetic of a lush green valley with rolling hills, called O Prado do Rima-Rima. Flowers gently sway and trees have leaves shaped like musical notes. A crystal clear stream flows through it. soft pastel colors, gentle lighting, charming and cozy, beautiful and enchanting, detailed background, cinematic lighting, ultra-high detail, 16:9 aspect ratio. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark."
+    }
+  }
+}
