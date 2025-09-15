@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Build Revision",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/script.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/src",
+      "justMyCode": true,
+      "subProcess": true,
+      "stopOnEntry": false,
+      "redirectOutput": true,
+      "args": [
+        "build-revision",
+        "--data-path",
+        "episodes",
+        "--revision-file",
+        "REVISION",
+        "--output-path",
+        "../tmp"
+      ]
+    }
+  ]
+}
