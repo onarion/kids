@@ -152,34 +152,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 
   - **Prompt Mestre de Canção:**
         ```
-        [Style of Music]: {{ESTILO_MUSICAL}}
+    [Style of Music]: {{ESTILO_MUSICAL}}
         [Mood]: {{EMOÇÃO_DA_MÚSICA}}
         [Tempo (BPM)]: {{RITMO_DA_MÚSICA}} (e.g., slow, around 80 BPM; upbeat, around 120 BPM)
         [Instrumentation]: {{INSTRUMENTOS_DA_MÚSICA}}
         [Vocal Style]: {{ESTILO_VOCAL}}
         [Lyrics]:
-        (Verse 1)
-        {{VERSO_1}}
-
-        (Chorus)
-        {{REFRÃO}}
-
-        (Verse 2)
-        {{VERSO_2}}
-
-        (Chorus)
-        {{REFRÃO}}
-
-        (Bridge)
-        {{PONTE}}
-
-        (Chorus)
-        {{REFRÃO}}
+        <!-- NOTA DE REVISÃO: A IA será instruída a colar a letra COMPLETA aqui, vinda da seção "Letra da Música", garantindo uma fonte única da verdade. -->
+        {{LETRA_COMPLETA_DA_MUSICA}}
         ```
 
 - ### Geração de Vídeo (Google Veo)
 
-  - **Prompt Mestre de Vídeo:** `[TARGET_DURATION: {{DURAÇÃO_ESTIMADA}}s]. Animate the following scene: [PROMPT_COMPLETO_DA_IMAGEM]. The animation is a cinematic shot, {{ESTILO_VISUAL}}. The camera will perform a [MOVIMENTO_DE_CÂMERA]. The character should perform a subtle action, like [AÇÃO_SUTIL]. High fidelity, smooth animation.`
+  - **Prompt Mestre de Vídeo:** `[TARGET_DURATION: {{DURAÇÃO_ESTIMADA}}s]. Animate the following scene: [{{PROMPT_COMPLETO_DA_IMAGEM_DA_CENA}}]. The animation is a cinematic shot, {{ESTILO_VISUAL}}. The camera will perform a {{MOVIMENTO_DE_CÂMERA}}. The character should perform a subtle action, like {{AÇÃO_SUTIL}}. High fidelity, smooth animation.`
 
 ---
 
@@ -226,14 +211,17 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
     1. Dividir a letra ou roteiro em **trechos semânticos**. Um trecho semântico representa uma ideia ou ação completa, e pode ser menor ou maior que um verso.
     2. Para cada trecho semântico, estimar a duração.
     3. Descrever a cena visual, a narração (se houver) e os efeitos sonoros (SFX) chave.
-    4. Gerar o prompt de imagem final e específico para cada trecho.
+    4. **Gerar o prompt de imagem específico para cada trecho, utilizando OBRIGATORIAMENTE os dados da `bible.md` como base (ex: `Estilo Visual`, `Descritores Adicionais`, e o `Descritor-Chave para IA` do personagem principal).**
   - **Formato do Resultado (Obrigatório):** Uma tabela Markdown no arquivo da história: `| # | Trecho (Letra/Roteiro) | Duração (s) | Descrição Visual | Narração | Efeitos Sonoros (SFX) | Prompt de Imagem (Específico da História) |`
 
 **FASE 5: ANIMAÇÃO SINCRONIZADA**
 
 - **Modo 6: Diretor de Animação Sincronizada**
   - **Tarefa Principal:** Usar a **Tabela de Roteirização** do Modo 5 como sua única fonte de verdade para gerar os prompts de vídeo.
-  - **Resultado Esperado:** Uma lista numerada de prompts de vídeo, a serem adicionados ao arquivo da história.
+  - **Processo de Pensamento (Obrigatório):**
+    1. **Para cada linha da Tabela de Roteirização, pegar o `Prompt de Imagem` completo e EMUTIR diretamente dentro do `Prompt Mestre de Vídeo`.**
+    2. Escolher um movimento de câmera (`[MOVIMENTO_DE_CÂMERA]`) e uma ação sutil (`[AÇÃO_SUTIL]`) que complementem a "Descrição Visual" da tabela.
+  - **Resultado Esperado:** Uma lista numerada de prompts de vídeo, **completos e autocontidos**, a serem adicionados ao arquivo da história.
 
 **FASE 6: PÓS-PRODUÇÃO E EMPACOTAMENTO**
 
@@ -247,7 +235,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 
 **FASE 7: PRODUÇÃO ACELERADA**
 
-- **Modo 9: Gênese Criativa (Modo "Big Bang")**
+- **Modo 9: Gênese Criativa**
   - **Tarefa Principal:** A partir de uma única ideia central fornecida pelo usuário (ex: "uma história sobre um leãozinho que tem medo do escuro"), gerar um ecossistema de produção completo e pronto para uso.
   - **Processo de Pensamento (Obrigatório):**
     1. **Briefing Rápido:** Solicitar ao usuário a ideia central, o público-alvo e o tipo de conteúdo (Valores Universais ou Teológico).
@@ -302,11 +290,9 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 # Língua: pt-br
 
 ## Letra da Música / Roteiro Completo
-
 (Cola-se aqui a letra completa da música ou o roteiro narrativo)
 
 ## Prompt de Geração de Música (Suno.ai)
-
 (Cola-se aqui o prompt mestre de canção preenchido com a letra acima)
 
 ## Tabela de Roteirização e Produção
@@ -319,7 +305,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 ## Prompts de Vídeo (Google Veo)
 
 ### Vídeo 01
-`[TARGET_DURATION: 4s]. Animate the following scene: [PROMPT_DE_IMAGEM_ACIMA]. The animation is a cinematic shot, Watercolor illustration. The camera will perform a slow zoom in with a subtle pan right. The character should perform a subtle action, like blinking slowly and a small smile growing. High fidelity, smooth animation.`
+`[TARGET_DURATION: 4s]. Animate the following scene: [Watercolor illustration, 16:9 aspect ratio, soft pastel colors, gentle lighting. A scene showing a cute baby lion cub named Leo... (prompt completo aqui)]. The animation is a cinematic shot, Watercolor illustration. The camera will perform a slow zoom in. The character should perform a subtle action, like blinking slowly. High fidelity, smooth animation.`
 
 ### Vídeo 02
 `...`
@@ -343,11 +329,7 @@ Assista, cante junto e aprenda sobre {{VALOR_PRINCIPAL}}!
 
 ---
 **Letra:**
-
-(Verso 1)
-...
-(Refrão)
-...
+(A letra completa da seção "Letra da Música" será inserida aqui)
 ---
 
 Inscreva-se no nosso canal para mais fábulas encantadoras!
