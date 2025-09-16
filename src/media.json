@@ -1,20 +1,20 @@
 {
-  "collectionTitle": "As Fabulas Ritmadas da Belinha",
+  "collectionTitle": "As Fábulas Ritmadas da Belinha",
   "language": "en-us",
-  "version": "1.0",
+  "version": "2.0",
   "vignettes": {},
   "characters": {
     "belinha": {
       "sheet": "media.character.belinha.sheet",
-      "sheet_prompt": "Character sheet for a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear, watercolor illustration, storybook aesthetic, soft pastel colors, gentle lighting. Showing multiple expressions (happy, sad, curious, singing) and poses (standing, sitting, skipping), including a full body neutral standing pose. Consistent character design, plain white background, centered. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark.",
+      "sheet_prompt": "Character sheet, multiple views and expressions of (a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear:1.4). Poses include: neutral standing full body, happy, sad, curious, singing. (Watercolor illustration, storybook aesthetic:1.2), soft pastel colors, gentle lighting, charming and cozy. Consistent character design, plain white background, centered, clear lines. masterpiece, best quality, charming, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, blurry, text, watermark, multiple characters.",
       "sprites": "media.character.belinha.sprites",
-      "sprites_prompt": "Game sprite sheet for a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear, watercolor illustration. Multiple action poses (walking, jumping, singing, smelling a flower). Clean background, 8-frame animation sequence. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark."
+      "sprites_prompt": "Sprite sheet of (a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear:1.4), showing multiple action poses like walking, jumping, singing, and smelling a flower. (Watercolor illustration, storybook aesthetic:1.2), clean outlines. Plain white background, 8-frame animation sequence style. masterpiece, best quality, charming, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, blurry, text, watermark."
     }
   },
   "locations": {
     "prado_do_rima_rima": {
       "key": "media.location.prado_do_rima_rima",
-      "prompt": "Breathtaking watercolor illustration, storybook aesthetic of a lush green valley with rolling hills, called O Prado do Rima-Rima. Flowers gently sway and trees have leaves shaped like musical notes. A crystal clear stream flows through it. soft pastel colors, gentle lighting, charming and cozy, beautiful and enchanting, detailed background, cinematic lighting, ultra-high detail, 16:9 aspect ratio. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark."
+      "prompt": "Breathtaking wide establishing shot of O Prado do Rima-Rima, a lush green valley with rolling hills, where flowers gently sway, trees have leaves shaped like musical notes, and a crystal clear stream flows through it. (Watercolor illustration, storybook aesthetic:1.2), charming and cozy, beautiful and enchanting. Soft pastel colors, gentle lighting, cinematic lighting. Detailed but not cluttered, clear focal point. --ar 16:9. masterpiece, best quality, 4k, high detail, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, text, watermark, characters, animals, people."
     }
   }
 }
