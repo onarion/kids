@@ -1,20 +1,20 @@
 {
   "collectionTitle": "As Fábulas Ritmadas da Belinha",
   "language": "en-us",
-  "version": "2.0",
+  "version": "1.1",
   "vignettes": {},
   "characters": {
     "belinha": {
       "sheet": "media.character.belinha.sheet",
-      "sheet_prompt": "Character sheet, multiple views and expressions of (a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear:1.4). Poses include: neutral standing full body, happy, sad, curious, singing. (Watercolor illustration, storybook aesthetic:1.2), soft pastel colors, gentle lighting, charming and cozy. Consistent character design, plain white background, centered, clear lines. masterpiece, best quality, charming, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, blurry, text, watermark, multiple characters.",
+      "sheet_prompt": "Character sheet, multiple views and expressions of ((a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear:1.4)). Poses include: neutral standing full body, happy, sad, curious, singing. (watercolor illustration, storybook aesthetic:1.2), soft pastel colors, charming and cozy. Consistent character design, plain white background, centered, clear lines. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, visual clutter, scary eyes, horror, gore.",
       "sprites": "media.character.belinha.sprites",
-      "sprites_prompt": "Sprite sheet of (a cute and fluffy baby sheep named Belinha, with big curious sky-blue eyes, cloud-like white wool, wearing a small pastel yellow ribbon on her left ear:1.4), showing multiple action poses like walking, jumping, singing, and smelling a flower. (Watercolor illustration, storybook aesthetic:1.2), clean outlines. Plain white background, 8-frame animation sequence style. masterpiece, best quality, charming, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, blurry, text, watermark."
+      "sprites_prompt": "Sprite sheet of ((a cute and fluffy baby sheep named Belinha...:1.4)) for animation. Poses include: walking cycle, skipping, singing, smelling a flower, happy wave. (watercolor illustration, storybook aesthetic:1.2). Multiple action poses, consistent character design. Clean white background, 8-frame animation sequence style. masterpiece, best quality, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name."
     }
   },
   "locations": {
     "prado_do_rima_rima": {
       "key": "media.location.prado_do_rima_rima",
-      "prompt": "Breathtaking wide establishing shot of O Prado do Rima-Rima, a lush green valley with rolling hills, where flowers gently sway, trees have leaves shaped like musical notes, and a crystal clear stream flows through it. (Watercolor illustration, storybook aesthetic:1.2), charming and cozy, beautiful and enchanting. Soft pastel colors, gentle lighting, cinematic lighting. Detailed but not cluttered, clear focal point. --ar 16:9. masterpiece, best quality, 4k, high detail, for children, safe for kids. Negative prompt: (worst quality, low quality:1.4), ugly, deformed, scary, inappropriate, nsfw, text, watermark, characters, animals, people."
+      "prompt": "Breathtaking wide establishing shot of O Prado do Rima-Rima, a lush green valley with rolling hills. (Flowers gently sway and trees have leaves shaped like musical notes:1.2). A crystal clear stream flows through it. (watercolor illustration, storybook aesthetic:1.3), soft pastel colors, gentle lighting, charming and cozy, beautiful and enchanting, detailed but not cluttered. --ar 16:9. masterpiece, best quality, 4k, high detail, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, text, watermark, signature, artist name, characters, animals, people, buildings, roads."
     }
   }
 }
