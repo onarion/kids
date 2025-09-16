@@ -101,12 +101,12 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção B: "Alegre e Energético"** - Perfeito para canções animadas e aventuras diurnas. A energia de um parquinho ensolarado.
   - **Opção C: "Curioso e Mágico"** - Para explorar mundos fantásticos e despertar a imaginação. O sentimento de descobrir um segredo maravilhoso.
 - **Estilo Visual Principal:**
-  - **Opção A: "Ilustração 2D Clássica (Estilo Livro de Histórias)"** - Visual charmoso e atemporal, com personagens expressivos e cenários ricos, como em um livro de fábulas clássico. (Ex: `storybook illustration, charming`)
-  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"** - Personagens cativantes com profundidade e iluminação sofisticada, buscando um visual cinematográfico e moderno. (Ex: `3D animation, Disney Pixar style, cinematic lighting`)
-  - **Opção C: "Claymation (Estilo Massa de Modelar)"** - Visual tátil e artesanal, com personagens e cenários que parecem feitos à mão com massa de modelar, criando uma atmosfera única e aconchegante. (Ex: `Claymation style, stop-motion aesthetic`)
-  - **Opção D: "Aquarela Suave (Estilo Sonhador)"** - Traços delicados e cores translúcidas que criam uma atmosfera etérea e artística, ideal para temas mais calmos e poéticos. (Ex: `Watercolor illustration, soft pastel colors, dreamy`)
-  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"** - Estética que simula personagens e cenários feitos de camadas de papel recortado, conferindo um visual teatral e criativo. (Ex: `Paper cut-out style, 2.5D, layered paper`)
-  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"** - Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e altamente atrativo para o público pré-escolar. (Ex: `2.5D vector art, vibrant colors, simple shapes, clean design`)
+  - **Opção A: "Ilustração 2D Clássica (Estilo Livro de Histórias)"** - Visual charmoso e atemporal, como em um livro de fábulas clássico. **Pense em:** *Ursinho Pooh, As Aventuras de Paddington*. (Prompt base: `storybook illustration, charming`)
+  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"** - Personagens cativantes com profundidade e iluminação sofisticada, buscando um visual cinematográfico e moderno. **Pense em:** *Toy Story, Procurando Nemo*. (Prompt base: `3D animation, Disney Pixar style, cinematic lighting`)
+  - **Opção C: "Claymation (Estilo Massa de Modelar)"** - Visual tátil e artesanal, com personagens e cenários que parecem feitos à mão, criando uma atmosfera única. **Pense em:** *Shaun, o Carneiro; O Galinho Chicken Little*. (Prompt base: `Claymation style, stop-motion aesthetic`)
+  - **Opção D: "Aquarela Suave (Estilo Sonhador)"** - Traços delicados e cores translúcidas que criam uma atmosfera etérea e artística, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*. (Prompt base: `Watercolor illustration, soft pastel colors, dreamy`)
+  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"** - Estética que simula personagens e cenários feitos de camadas de papel recortado, conferindo um visual teatral e criativo. **Pense em:** *Charlie e Lola, South Park (versão infantil)*. (Prompt base: `Paper cut-out style, 2.5D, layered paper`)
+  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"** - Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e altamente atrativo para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*. (Prompt base: `2.5D vector art, vibrant colors, simple shapes, clean design`)
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
@@ -118,7 +118,10 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção A: "Voz Feminina Doce e Clara"** - Calorosa e amigável, como uma professora ou mãe carinhosa. (Ex: `a sweet and clear female voice, friendly and warm`)
   - **Opção B: "Voz Masculina Gentil e Calma"** - Paterna e serena, ideal para narração de histórias para dormir. (Ex: `a gentle and calm male voice, like a father telling a story`)
   - **Opção C: "Coro Infantil Alegre"** - Energético e contagiante, perfeito para refrões e músicas dançantes. (Ex: `a cheerful children's choir`)
-- **Ritmo Padrão das Cenas:** `{{RITMO_CENAS}}` (Opções: [ "Calmo e lento" | "Moderado" | "Dinâmico e rápido" ])
+- **Ritmo Padrão das Cenas:**
+  - **Opção A: "Calmo e Lento"** - Ideal para histórias de ninar e conteúdo relaxante. Corresponde a um ASL (Average Shot Length) de 6 a 8 segundos.
+  - **Opção B: "Moderado"** - O ritmo padrão para a maioria das histórias e canções, mantendo o engajamento sem superestimular. Corresponde a um ASL de 4 a 6 segundos.
+  - **Opção C: "Dinâmico"** - Usado com moderação para momentos de clímax ou canções muito dançantes, sempre respeitando o limite mínimo de 4s por cena.
 
 ## SEÇÃO 2: FUNDAMENTO TEOLÓGICO (Apenas se 'Teológico Cristão' for escolhido)
 
