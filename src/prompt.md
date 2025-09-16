@@ -332,70 +332,72 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 *Este é o template para um arquivo de história individual, como `histories/pt-br/history-001.pt-br.md`.*
 
 ```markdown
-# História: {{TÍTULO_DA_HISTÓRIA}}
-# Coleção: {{TÍTULO_DA_COLEÇÃO}}
-# Língua: pt-br
+# {{TÍTULO_DA_HISTÓRIA}}
 
-## Letra da Música / Roteiro Completo
-{{LETRA_COMPLETA_DA_MUSICA_OU_ROTEIRO}}
+| Metadado            | Valor                            |
+| ------------------- | -------------------------------- |
+| **Coleção**         | {{TÍTULO_DA_COLEÇÃO}}            |
+| **ID da História**  | {{ID_DA_HISTORIA}}               |
+| **Língua**          | {{LINGUA}}                       |
+| **Valor Principal** | {{VALOR_PRINCIPAL_DA_HISTÓRIA}}  |
+| **Personagem Foco** | {{NOME_DO_PERSONAGEM_PRINCIPAL}} |
 
-## Prompt de Geração de Música (Suno.ai)
+## 1. Roteiro e Música
+
+### Letra Completa
+
 ```text
-[Style of Music]: {{ESTILO_MUSICAL}}
-[Mood]: {{EMOÇÃO_DA_MÚSICA}}
-[Tempo (BPM)]: {{RITMO_DA_MÚSICA}}
-[Instrumentation]: {{INSTRUMENTOS_DA_MÚSICA}}
-[Vocal Style]: {{ESTILO_VOCAL}}
-[Lyrics]:
-{{LETRA_COMPLETA_DA_MUSICA}}
+{{LETRA_COMPLETA_DA_MUSICA_OU_ROTEIRO}}
 ```
 
-## Tabela de Roteirização e Produção
+### Prompt de Geração de Música
 
-| #   | Trecho (Letra/Roteiro)       | Duração (s) | Descrição Visual                                                                  | Narração | Efeitos Sonoros (SFX)   | Prompt de Imagem (Específico da História)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| --- | ---------------------------- | ----------- | --------------------------------------------------------------------------------- | -------- | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | No vale verde e tão calminho | 4           | Close-up no rosto sorridente do Leão Léo, com o sol da manhã iluminando sua juba. | -        | Canto suave de pássaros | `Watercolor illustration, 16:9 aspect ratio, soft pastel colors, gentle lighting. A scene showing a cute baby lion cub named Leo, big expressive green eyes, a small fluffy mane, wearing tiny blue overalls who is smiling happily in a lush green valley. The mood of the scene is peaceful and joyful. **Close-up shot,** beautiful lighting. best quality, masterpiece, charming, for children, safe for kids. Negative prompt: ugly, deformed, scary, inappropriate, nsfw, bad anatomy, blurry, text, watermark, high contrast patterns, flashing colors, pure red flashes.` |
-| 2   | ...                          | ...         | ...                                                                               | ...      | ...                     | ...                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+```text
+{{PROMPT_COMPLETO_DE_MUSICA}}
+```
 
-## Prompts de Vídeo (Google Veo)
+## 2. Direção de Cena (Shot List)
 
-### Vídeo 01
+| #   | Trecho (Letra/Roteiro) | Duração (s)   | Descrição Visual | Narração | Efeitos Sonoros (SFX) | Prompt de Imagem          |
+| --- | ---------------------- | ------------- | ---------------- | -------- | --------------------- | ------------------------- |
+| 1   | {{TRECHO_1}}           | {{DURACAO_1}} | {{DESCRICAO_1}}  | ...      | ...                   | ```{{PROMPT_IMAGEM_1}}``` |
+| 2   | {{TRECHO_2}}           | {{DURACAO_2}} | {{DESCRICAO_2}}  | ...      | ...                   | ```{{PROMPT_IMAGEM_2}}``` |
 
-[TARGET_DURATION: 4s]. Animate the scene described by the following image prompt: "{{PROMPT_DE_IMAGEM_DA_CENA_1}}". The animation is a cinematic shot, {{ESTILO_VISUAL}}. The camera will perform a slow zoom in. The character should perform a subtle action, like blinking slowly. High fidelity, smooth animation.
+## 3. Pacote de Produção
 
-### Vídeo 02
+### Prompts de Animação
 
-...
+| #   | Prompt de Video          |
+| --- | ------------------------ |
+| 1   | ```{{PROMPT_VIDEO_1}}``` |
+| 2   | ```{{PROMPT_VIDEO_2}}``` |
 
-## Asset de Thumbnail
+### Asset de Thumbnail
 
-### Prompt de Imagem
+- **Prompt de Imagem**
 
-...
+```text
+{{PROMPT_THUMBNAIL}}
+```
 
-## Pacote de Publicação (YouTube)
+### Pacote de Publicação
 
-### Título Sugerido
+- **Título Sugerido**
 
+```text
 {{TÍTULO_FINAL_ESCOLHIDO_PELO_USUÁRIO}}
+```
 
-### Descrição
+- **Descrição**
 
-Junte-se a {{NOME_DO_PERSONAGEM}} em uma aventura musical sobre {{TEMA_DA_HISTÓRIA}}! 🎵
+```text
+{{DESCRIÇÃO_YOUTUBE}}
+```
 
-(Breve resumo da história em 2-3 frases)
+- **Tags / Hashtags**
 
-Assista, cante junto e aprenda sobre {{VALOR_PRINCIPAL}}!
+```text
+{{TAGS_YOUTUBE}}
+```
 
----
-
-**Letra:**
-{{LETRA_COMPLETA_DA_MUSICA}}
----
-
-Inscreva-se no nosso canal "{{NOME_DO_CANAL}}" para mais fábulas encantadoras!
-(Link para o canal)
-
-### Tags / Hashtags
-
-# {{NOME_DO_CANAL_SEM_ESPAÇOS}} #MusicaInfantil #DesenhoAnimado #HistoriasParaCrianças #CançõesDeNinar #MusicaParaDormir #AprenderCantando #{{NOME_DO_PERSONAGEM_SEM_ESPAÇOS}} #{{TEMA_DA_HISTORIA_EM_HASHTAG}}
+```
