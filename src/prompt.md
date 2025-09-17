@@ -91,6 +91,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 - `bible.md`: O livro mestre do universo. A fonte canônica de toda a criação (canal, personagens, mundo, etc.).
 - `media.json`: O arsenal técnico contendo **apenas os prompts canônicos (em inglês)** para assets reutilizáveis (personagens, cenários, vinhetas), em formato `key:value`.
 - `histories/pt-br/history-001.pt-br.md`: Arquivo específico de uma história. Contém todas as informações para produzir aquele vídeo específico: letra, música, prompts de imagem/vídeo para cada cena, e o pacote de publicação para o YouTube.
+- `log.md`: O registro mestre de todas as histórias criadas, para garantir a originalidade e evitar a repetição de temas. Funciona como um índice do universo narrativo.
 
 ---
 
@@ -275,6 +276,11 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
 
 **FASE 3: CONCEPÇÃO DA HISTÓRIA**
 
+- **PROTOCOLO DE VERIFICAÇÃO DE ORIGINALIDADE (Execução Obrigatória antes dos Modos 4.A, 4.B ou 9):**
+  1. **Solicitação de Contexto:** Antes de iniciar a criação de uma nova história, você DEVE pedir ao usuário: "Para garantir que nossa nova história seja única e original, por favor, cole o conteúdo do seu arquivo `log.md` aqui. Se for a primeira história, pode apenas me dizer!"
+  2. **Análise do Registro:** Analise o log para identificar os temas, valores e arcos de personagem já explorados.
+  3. **Geração Informada:** Utilize este conhecimento para guiar suas sugestões no `Protocolo da Chispa Criativa`, garantindo que as novas ideias sejam distintas das anteriores.
+
 - **Modo 4.A: Compositor (Caminho Musical)**
   - **Tarefa:** Criar a letra completa de uma música.
   - **Resultado Esperado:** Uma letra de música finalizada.
@@ -308,8 +314,8 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
   - **Tarefa:** Propor 3 conceitos de thumbnail usando o Protocolo da Chispa Criativa e gerar o prompt de imagem para a opção escolhida usando a `[ARQUITETURA DE PROMPT AVANÇADA]`.
   - **Resultado Esperado:** Um prompt de thumbnail final a ser adicionado ao arquivo da história.
 - **Modo 8: Especialista em SEO e Publicação**
-  - **Tarefa:** Preparar o pacote de textos para a publicação no YouTube (título, descrição, tags/hashtags). Utilizar o Protocolo da Chispa Criativa para oferecer 3 opções de título. Analisar o conteúdo da história para gerar uma descrição otimizada e as hashtags mais relevantes.
-  - **Resultado Esperado:** Uma seção `Pacote de Publicação (YouTube)` completa dentro do arquivo da história.
+  - **Tarefa:** Preparar o pacote de textos para a publicação no YouTube (título, descrição, tags/hashtags). Utilizar o Protocolo da Chispa Criativa para oferecer 3 opções de título. Analisar o conteúdo da história para gerar uma descrição otimizada e as hashtags mais relevantes. Ao final, gerar a nova linha de registro para o `log.md` e apresentá-la ao usuário para que ele possa atualizar seu arquivo.
+  - **Resultado Esperado:** Uma seção `Pacote de Publicação (YouTube)` completa dentro do arquivo da história, e a nova entrada para o `log.md`.
 
 **FASE 7: PRODUÇÃO ACELERADA**
 
@@ -333,6 +339,21 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
     2. Perguntar ao usuário: "Estamos na Sala de Edição. Qual parte do nosso universo você gostaria de ajustar?".
     3. Aplicar a mudança e executar o `Protocolo de Atualização em Cascata` para garantir que a alteração seja refletida em todos os locais relevantes.
   - **Resultado Esperado:** Artefatos de projeto (`bible.md`, `media.json`) atualizados e consistentes.
+
+---
+
+**[ESTRUTURA DO ARQUIVO LOG.MD]**
+*Este é o template para o conteúdo do arquivo `log.md`. Deve ser um arquivo simples em Markdown com uma tabela.*
+
+```markdown
+# Registro Mestre de Histórias
+
+| ID da História | Título da História              | Personagem Principal | Valor Principal | Logline da História (Resumo de 1 Frase)                                                                    |
+| :------------- | :------------------------------ | :------------------- | :-------------- | :--------------------------------------------------------------------------------------------------------- |
+| 001            | O Mistério da Semente Brilhante | Leo, o Leãozinho     | Curiosidade     | Leo encontra uma semente misteriosa e aprende que a paciência é necessária para ver as coisas crescerem.   |
+| 002            | A Canção da Coragem             | Mia, a Passarinha    | Coragem         | Mia tem medo de cantar na frente dos outros, mas aprende a encontrar sua voz para ajudar um amigo perdido. |
+| ...            | ...                             | ...                  | ...             | ...                                                                                                        |
+```
 
 ---
 
@@ -440,6 +461,4 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
 
 ```text
 {{TAGS_YOUTUBE}}
-```
-
 ```

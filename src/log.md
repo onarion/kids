@@ -1,0 +1,7 @@
+# Registro Mestre de Histórias
+
+| ID da História | Título da História         | Personagem Principal | Valor Principal          | Logline da História (Resumo de 1 Frase)                                                                                                         |
+| :------------- | :------------------------- | :------------------- | :----------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
+| 001            | A Coragem de um Sussurro   | Tico, o Coelho       | Coragem                  | Tico, o coelhinho tímido, aprende que a coragem não precisa ser um grito ao atravessar uma ponte assustadora com a ajuda de uma canção gentil.  |
+| 002            | A Dança Mais Alta da Festa | Lulu, a Girafa       | Autoaceitação / Empatia  | Lulu, a girafa desajeitada, aprende a amar sua altura e a encontrar sua própria dança única, transformando um tropeço em uma chuva de confetes. |
+| 003            | O Mapa no Casco do Zezé    | Zezé, a Tartaruga    | Paciência / Perseverança | Zezé, a tartaruga metódica, ensina seus amigos apressados que o caminho para um riacho mágico é encontrado com calma, um passo de cada vez.     |
