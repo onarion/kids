@@ -31,11 +31,29 @@
 
 - ### Lugares-Chave
 
-  - #### O Prado do Rima-Rima
+  #### O Prado do Rima-Rima
 
-    - **Descrição Detalhada:** `Um vale verdejante com colinas suaves, onde as flores parecem balançar no ritmo de uma canção silenciosa. O riacho que o corta, chamado Riacho Cristalino, faz um som suave de "plim-plim". As árvores têm folhas em forma de notas musicais.`
-    - **Importância Narrativa:** `É o lar de Belinha e o palco principal para a maioria de suas aventuras musicais.`
-    - **Referência de Mídia:** `"media.location.prado_do_rima_rima"`
+  - **Descrição Detalhada:** `Um vale verdejante com colinas suaves, onde as flores parecem balançar no ritmo de uma canção silenciosa. O riacho que o corta, chamado Riacho Cristalino, faz um som suave de "plim-plim". As árvores têm folhas em forma de notas musicais.`
+  - **Importância Narrativa:** `É o lar de Belinha e o palco principal para a maioria de suas aventuras musicais.`
+  - **Referência de Mídia:** `"media.location.prado_do_rima_rima"`
+
+  #### A Clareira da Dança das Flores (Micro-Cenário)
+
+  - **Descrição Detalhada:** `Uma área circular e aberta no coração do Prado, onde as flores mais coloridas crescem em abundância. O chão é coberto por uma grama macia e aveludada, perfeita para dançar. Baskets de pétalas são frequentemente deixadas aqui para festas.`
+  - **Importância Narrativa:** `O local principal para celebrações, festas e danças do grupo.`
+  - **Referência de Mídia:** `"media.location.clareira_da_danca_das_flores"`
+
+  #### A Ponte do Sussurro (Micro-Cenário)
+
+  - **Descrição Detalhada:** `Uma pequena e antiga ponte de madeira que cruza o Riacho Cristalino. Suas tábuas rangem suavemente com cada passo, como se estivessem sussurrando segredos antigos. É charmosa, mas um pouco intimidante para os mais tímidos.`
+  - **Importância Narrativa:** `Um obstáculo simbólico que representa a superação de pequenos medos.`
+  - **Referência de Mídia:** `"media.location.ponte_do_sussurro"`
+
+  #### O Riacho das Melodias (Micro-Cenário)
+
+  - **Descrição Detalhada:** `Uma parte mágica e escondida do Riacho Cristalino, onde a água flui sobre pedras lisas em forma de notas musicais, criando uma melodia natural, suave e encantadora. A água aqui brilha com uma luz suave.`
+  - **Importância Narrativa:** `Um lugar de descoberta, recompensa e maravilhamento, encontrado através da paciência.`
+  - **Referência de Mídia:** `"media.location.riacho_das_melodias"`
 
 ## SEÇÃO 4: OS ASTROS DA HISTÓRIA (PERSONAGENS)
 
