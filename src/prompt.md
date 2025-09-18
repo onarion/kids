@@ -124,12 +124,24 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção B: "Alegre e Energético"** - Perfeito para canções animadas e aventuras diurnas. A energia de um parquinho ensolarado.
   - **Opção C: "Curioso e Mágico"** - Para explorar mundos fantásticos e despertar a imaginação. O sentimento de descobrir um segredo maravilhoso.
 - **Estilo Visual Principal:**
-  - **Opção A: "Ilustração 2D Clássica (Estilo Livro de Histórias)"** - Visual charmoso e atemporal, como em um livro de fábulas clássico. **Pense em:** *Ursinho Pooh, As Aventuras de Paddington*. (Prompt base: `storybook illustration, charming`)
-  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"** - Personagens cativantes com profundidade e iluminação sofisticada, buscando um visual cinematográfico e moderno. **Pense em:** *Toy Story, Procurando Nemo*. (Prompt base: `3D animation, Disney Pixar style, cinematic lighting`)
-  - **Opção C: "Claymation (Estilo Massa de Modelar)"** - Visual tátil e artesanal, com personagens e cenários que parecem feitos à mão, criando uma atmosfera única. **Pense em:** *Shaun, o Carneiro; O Galinho Chicken Little*. (Prompt base: `Claymation style, stop-motion aesthetic`)
-  - **Opção D: "Aquarela Suave (Estilo Sonhador)"** - Traços delicados e cores translúcidas que criam uma atmosfera etérea e artística, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*. (Prompt base: `Watercolor illustration, soft pastel colors, dreamy`)
-  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"** - Estética que simula personagens e cenários feitos de camadas de papel recortado, conferindo um visual teatral e criativo. **Pense em:** *Charlie e Lola, South Park (versão infantil)*. (Prompt base: `Paper cut-out style, 2.5D, layered paper`)
-  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"** - Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e altamente atrativo para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*. (Prompt base: `2.5D vector art, vibrant colors, simple shapes, clean design`)
+  - **Opção A: "Ilustração 2D Clássica (Estilo Livro de Histórias)"**
+    - **Descrição:** Visual charmoso e atemporal, como em um livro de fábulas clássico. **Pense em:** *Ursinho Pooh, As Aventuras de Paddington*.
+    - **Template Detalhado para IA:** `(classic children's storybook illustration:1.3), charming hand-drawn style, gentle ink outlines, soft watercolor washes, whimsical and heartwarming aesthetic, timeless feel`
+  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"**
+    - **Descrição:** Personagens cativantes com profundidade e iluminação sofisticada, buscando um visual cinematográfico e moderno. **Pense em:** *Toy Story, Procurando Nemo*.
+    - **Template Detalhado para IA:** `(cinematic 3D animation, Disney Pixar style:1.3), beautifully rendered, expressive characters, dynamic and sophisticated lighting, rich textures, vibrant color palette, polished and modern look`
+  - **Opção C: "Claymation (Estilo Massa de Modelar)"**
+    - **Descrição:** Visual tátil e artesanal, com personagens e cenários que parecem feitos à mão, criando uma atmosfera única. **Pense em:** *Shaun, o Carneiro; O Galinho Chicken Little*.
+    - **Template Detalhado para IA:** `(Claymation style:1.3), stop-motion aesthetic, tangible and handcrafted look, visible fingerprint textures on characters, detailed miniature sets, charmingly imperfect, tactile feel`
+  - **Opção D: "Aquarela Suave (Estilo Sonhador)"**
+    - **Descrição:** Traços delicados e cores translúcidas que criam uma atmosfera etérea e artística, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*.
+    - **Template Detalhado para IA:** `(delicate watercolor illustration:1.3), dreamy and ethereal aesthetic, soft pastel color palette, translucent washes of color, wet-on-wet technique, gentle and artistic feel`
+  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"**
+    - **Descrição:** Estética que simula personagens e cenários feitos de camadas de papel recortado, conferindo um visual teatral e criativo. **Pense em:** *Charlie e Lola, South Park (versão infantil)*.
+    - **Template Detalhado para IA:** `(paper cut-out style:1.3), 2.5D perspective, layered paper effect with visible depth and shadows, handcrafted theatrical aesthetic, charming and crafty look, simple shapes with subtle textures`
+  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"**
+    - **Descrição:** Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e altamente atrativo para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*.
+    - **Template Detalhado para IA:** `(2.5D vector art:1.3), Cocomelon-inspired style, vibrant and cheerful color palette, clean lines and simple geometric shapes, soft gradients, friendly and modern look, highly engaging for toddlers`
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
@@ -173,7 +185,6 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
 - **Arco de Aprendizado:** `{{ARCO_DO_PERSONAGEM}}` (O que o personagem aprende ao longo da história, alinhado aos valores centrais).
 - **Descritor-Chave para IA (Consistência Visual):** `{{DESCRITOR_CHAVE_IA}}` (Frase única e poderosa. Ex: "a cute baby lion cub named Leo, big expressive green eyes, a small fluffy mane, wearing tiny blue overalls").
 - **Referência de Mídia (Character Sheet):** `"media.character.{{nome_do_personagem_em_minusculas}}.sheet"`
-- **Referência de Mídia (Sprite Sheet):** `"media.character.{{nome_do_personagem_em_minusculas}}.sprites"`
 
 ---
 
@@ -203,7 +214,7 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
 - **`{{LOCATION_&_CONTEXT}}` (Cenário e Contexto):** Descreve o ambiente.
   - Ex: `inside a cozy, warm burrow`, `in the sun-dappled Whispering Meadow`, `simple background to focus on character`.
 - **`{{ART_STYLE_CORE}}` (Estilo Artístico Principal):** Derivado diretamente do `Estilo Visual Principal` da `bible.md`, com peso reforçado.
-  - Ex: `(storybook illustration:1.2)`, `(3D animation, Disney Pixar style:1.3)`, `(Claymation style, stop-motion aesthetic:1.2)`.
+  - Ex: `(classic children's storybook illustration:1.3), charming hand-drawn style...`.
 - **`{{AESTHETIC_MODIFIERS}}` (Modificadores Estéticos):** Derivado dos `Descritores Visuais Adicionais` da `bible.md`.
   - Ex: `charming and cute`, `whimsical`, `soft and gentle aesthetic`, `clean vector lines`.
 - **`{{LIGHTING_&_COLOR}}` (Iluminação e Cor):** Controla a atmosfera visual.
@@ -223,7 +234,7 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
 - **Prompt Mestre de Cena (para a Tabela de Roteirização):**
   A IA irá construir este prompt dinamicamente para cada cena, usando a **Fórmula Mestra** do **Módulo 2**.
   **Exemplo de resultado final:**
-  `Medium shot of (a cute baby lion cub named Leo...:1.3), smiling and waving at a small, glowing butterfly, set in the cozy Whispering Meadow. (Storybook illustration:1.2), charming and cute aesthetic. Warm morning light, dreamy pastel color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality...:1.4), ugly, deformed, scary...`
+  `Medium shot of (a cute baby lion cub named Leo...:1.3), smiling and waving at a small, glowing butterfly, set in the cozy Whispering Meadow. (classic children's storybook illustration:1.3), charming hand-drawn style..., charming and cute aesthetic. Warm morning light, dreamy pastel color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality...:1.4), ugly, deformed, scary...`
 
 ### Módulo 5: Geração de Música (Suno.ai)
 
@@ -375,9 +386,7 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
   "characters": {
     "{{nome_do_personagem_em_minusculas}}": {
       "sheet": "media.character.{{nome_do_personagem_em_minusculas}}.sheet",
-      "sheet_prompt": "{{PROMPT_CHARACTER_SHEET_1}}",
-      "sprites": "media.character.{{nome_do_personagem_em_minusculas}}.sprites",
-      "sprites_prompt": "{{PROMPT_SPRITE_SHEET_1}}"
+      "sheet_prompt": "{{PROMPT_CHARACTER_SHEET_1}}"
     }
   },
   "locations": {
