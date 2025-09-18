@@ -142,6 +142,15 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"**
     - **Descrição:** Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e altamente atrativo para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*.
     - **Template Detalhado para IA:** `(2.5D vector art:1.3), Cocomelon-inspired style, vibrant and cheerful color palette, clean lines and simple geometric shapes, soft gradients, friendly and modern look, highly engaging for toddlers`
+  - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"**
+    - **Descrição:** Estilo clássico de animação europeia ("ligne claire"). Caracterizado por contornos pretos fortes e uniformes, cores chapadas (sem gradientes) e designs de personagens simples e muito expressivos. **Pense em:** *As Trigémeas, Tintim*.
+    - **Template Detalhado para IA:** `(European clear line cartoon style, inspired by "Les Tres Bessones":1.3), bold and clean ink outlines, flat solid colors, cel-shaded, charmingly simple character designs, highly expressive faces, 2D animation aesthetic, very readable and clean look`
+  - **Opção H: "Animação 2D Elegante (Estilo Sagwa)"**
+    - **Descrição:** Animação 2D sofisticada com linhas de contorno finas e elegantes, design de personagens mais elaborado e cenários com um toque de pintura artística. **Pense em:** *Sagwa, a Gatinha Siamesa*.
+    - **Template Detalhado para IA:** `(elegant 2D animation style, reminiscent of early 2000s TV series like "Sagwa the Chinese Siamese Cat":1.3), fine and delicate line art, soft and subtle cel shading, expressive gem-like eyes, sophisticated character design with graceful shapes, painterly backgrounds`
+  - **Opção I: "Aquarela Digital Texturizada (Estilo Livro Moderno)"**
+    - **Descrição:** Visual que simula mídias tradicionais como aquarela e lápis de cor. Os contornos são suaves e coloridos, e as cores têm uma textura orgânica, criando uma atmosfera artesanal e aconchegante. **Pense em:** *Ilustrações de livros infantis contemporâneos*.
+    - **Template Detalhado para IA:** `(charming digital illustration with traditional media textures:1.4), soft watercolor washes and blotches, visible paper texture, sketchy and soft colored pencil outlines, whimsical and modern storybook feel, handcrafted aesthetic, gentle and heartwarming`
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
