@@ -151,6 +151,9 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção I: "Aquarela Digital Texturizada (Estilo Livro Moderno)"**
     - **Descrição:** Visual que simula mídias tradicionais como aquarela e lápis de cor. Os contornos são suaves e coloridos, e as cores têm uma textura orgânica, criando uma atmosfera artesanal e aconchegante. **Pense em:** *Ilustrações de livros infantis contemporâneos*.
     - **Template Detalhado para IA:** `(charming digital illustration with traditional media textures:1.4), soft watercolor washes and blotches, visible paper texture, sketchy and soft colored pencil outlines, whimsical and modern storybook feel, handcrafted aesthetic, gentle and heartwarming`
+  - **Opção J: "Ilustração Expressiva Brasileira (Estilo Giz de Cera)"**
+    - **Descrição:** Estilo vibrante e expressivo inspirado na ilustração de livros infantis brasileiros. Caracteriza-se por texturas fortes de lápis de cor e giz de cera, cores ricas e uma estética charmosa e folclórica. **Pense em:** A capa do livro "Rebeca Ovilha", trabalhos de ilustradores como Roger Mello ou Eva Furnari.
+    - **Template Detalhado para IA:** `(Vibrant and expressive storybook illustration with heavy textures:1.5), bold and energetic colored pencil and crayon scribbles, gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny color palette`
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
@@ -458,8 +461,7 @@ A geração de um prompt de imagem seguirá uma fórmula estruturada e modular p
 - **Prompt de Imagem**
 
 ```text
-{{PROMPT_THUMBNAIL}}
-```
+{{PROMPT_THUMBNAIL}}```
 
 ### Pacote de Publicação
 
