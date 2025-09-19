@@ -454,6 +454,36 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Full bleed illustration of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a dense cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, nostalgic and heartwarming children's book aesthetic. soft, overcast light reflecting on wet surfaces, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
+  - **Opção L: "Animação Clássica 1930 (Estilo Cuphead)"**
+    - **Descrição:** Uma homenagem fiel à era de ouro da animação americana. Este estilo é definido pela animação "mangueira de borracha" (*rubber hose*), onde os membros se dobram como macarrão. A estética é completada com artefatos que simulam filme antigo, como grãos e arranhões, e fundos pintados em aquarela que contrastam com a simplicidade dos personagens. **Pense em:** *Cuphead, Betty Boop (Fleischer Studios), Silly Symphonies (Disney Antigo)*.
+    - **Core do Estilo para IA (ART_STYLE_CORE):**
+
+        ```text
+        (1930s rubber hose animation style, Max Fleischer and Ub Iwerks inspired:1.5), authentic vintage cartoon look, (heavy film grain, dust and scratches, celluloid imperfections:1.3), hand-drawn cel animation aesthetic, expressive pie-cut eyes, backgrounds are detailed watercolor paintings
+        ```
+
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, expressive pie-cut eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `The background is a lush, painterly wall of green leaves with whimsical details, completely filling the entire 16:9 frame from edge to edge.`
+      - **`{{LIGHTING_&_COLOR}}`**: `warm, slightly faded vintage color tones`
+    - **Prompt Final Montado (Exemplo Canônico):**
+
+        ```text
+        Medium shot of (a cute and fluffy lion cub with big, expressive pie-cut eyes:1.3), smiling gently and looking directly at the viewer. The background is a lush, painterly wall of green leaves with whimsical details, completely filling the entire 16:9 frame from edge to edge. (1930s rubber hose animation style, Max Fleischer and Ub Iwerks inspired:1.5), authentic vintage cartoon look, (heavy film grain, dust and scratches, celluloid imperfections:1.3), hand-drawn cel animation aesthetic, expressive pie-cut eyes, backgrounds are detailed watercolor paintings. warm, slightly faded vintage color tones. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: modern, 3D, photorealistic, CGI, smooth gradients, white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
+
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
+
+        ```text
+        Medium shot of (a cheerful little boy with big pie-cut eyes, wearing red shorts with two large white buttons, white gloves, and oversized brown shoes:1.3), happily jumping in a small puddle, splashing water. The background is a painterly cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (1930s rubber hose animation style, Max Fleischer and Ub Iwerks inspired:1.5), authentic vintage cartoon look, (heavy film grain, dust and scratches, celluloid imperfections:1.3), hand-drawn cel animation aesthetic, expressive pie-cut eyes, backgrounds are detailed watercolor paintings. warm, slightly faded vintage color tones. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: modern, 3D, photorealistic, CGI, smooth gradients, white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
+
+        ```text
+        Medium shot of (a joyful little girl with big pie-cut eyes and curly pigtails, wearing a polka dot dress and oversized white gloves:1.3), laughing as she holds a classic black umbrella. The background is a painterly cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (1930s rubber hose animation style, Max Fleischer and Ub Iwerks inspired:1.5), authentic vintage cartoon look, (heavy film grain, dust and scratches, celluloid imperfections:1.3), hand-drawn cel animation aesthetic, expressive pie-cut eyes, backgrounds are detailed watercolor paintings. warm, slightly faded vintage color tones. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: modern, 3D, photorealistic, CGI, smooth gradients, white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
+
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
