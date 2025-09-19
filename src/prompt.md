@@ -214,7 +214,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Claymation style, Aardman Animations inspired:1.4), full bleed illustration, tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect. warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção D: "Aquarela Pura (Sem Contornos)"**
+  - **Opção D: "Aquarela Pura (Sem Contornos)"** (FIX: ESTÁ CRIANDO COM BORDA BRANCA)
     - **Descrição:** Um estilo delicado onde as formas são definidas **exclusivamente pelas manchas de cor**, sem nenhuma linha de contorno. Cria uma atmosfera sonhadora, artística e etérea, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -244,7 +244,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), full bleed illustration, (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, wet-on-wet technique, gentle and serene feel. soft, overcast light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"**
+  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"** (FIX: ESTÁ CRIANDO COM BORDA BRANCA)
     - **Descrição:** Estética que simula um diorama ou teatrinho de marionetes, com personagens e cenários feitos de camadas de papel recortado, gerando profundidade e sombras realistas. **Pense em:** *Charlie e Lola, Lotte Reiniger*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -304,7 +304,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (2.5D vector art, Cocomelon-inspired style:1.4), full bleed illustration, maximum visual clarity for toddlers, (bold, chunky, and friendly geometric shapes:1.2), subtle 3D extrusion effect, highly engaging. vibrant candy-colored palette, perfectly smooth gradients. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"**
+  - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"** (FIX: ESTÁ CRIANDO COM BORDA BRANCA)
     - **Descrição:** Estilo clássico de animação europeia ("ligne claire"). Caracterizado por **contornos pretos de espessura uniforme**, cores chapadas (sem gradientes ou sombras) e um design gráfico e muito legível. **Pense em:** *As Trigémeas, Tintim*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -364,7 +364,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), full bleed illustration, (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, expressive gem-like eyes. sophisticated and gentle color theory. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção I: "Aquarela Texturizada (Lápis de Cor)"**
+  - **Opção I: "Aquarela Texturizada (Lápis de Cor)"** (FIX: ESTÁ CRIANDO COM BORDA BRANCA)
     - **Descrição:** Visual de mídia mista que combina a suavidade da aquarela com a textura do lápis de cor. Os **contornos são coloridos e levemente esboçados**, criando uma atmosfera artesanal, moderna e aconchegante. **Pense em:** *Ilustrações de livros infantis contemporâneos (Chris Riddell)*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
