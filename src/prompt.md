@@ -127,33 +127,213 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção A: "Aquarela Clássica (Contornos de Tinta)"**
     - **Descrição:** O visual atemporal de um livro de fábulas. Caracteriza-se por **contornos expressivos feitos a tinta** e preenchimento com cores suaves de aquarela, criando um forte contraste entre a linha e a mancha. **Pense em:** *Ursinho Pooh (E.H. Shepard), As Aventuras de Paddington*.
     - **Template Detalhado para IA:** `(classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds, whimsical and heartwarming aesthetic, timeless nostalgic feel`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds. whimsical and heartwarming aesthetic. warm, gentle morning light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção B: "Animação 3D (Estilo Pixar/Disney)"**
     - **Descrição:** Personagens cativantes com profundidade e iluminação sofisticada. O foco é em texturas ricas e um apelo emocional universal, buscando um visual cinematográfico e polido. **Pense em:** *Toy Story, Procurando Nemo*.
     - **Template Detalhado para IA:** `(cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft skin, polished modern look`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft fur. polished modern look. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, rich textures, polished modern look. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, rich textures, polished modern look. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção C: "Claymation (Estilo Massa de Modelar)"**
     - **Descrição:** Visual tátil e artesanal, com a imperfeição charmosa do stop-motion. Personagens de plasticina e cenários em miniatura criam uma atmosfera única e tangível. **Pense em:** *Shaun, o Carneiro; O Galinho Chicken Little*.
     - **Template Detalhado para IA:** `(Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect, warm studio lighting`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets. warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), charmingly imperfect. warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), charmingly imperfect. warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção D: "Aquarela Pura (Sem Contornos)"**
     - **Descrição:** Um estilo delicado onde as formas são definidas **exclusivamente pelas manchas de cor**, sem nenhuma linha de contorno. Cria uma atmosfera sonhadora, artística e etérea, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*.
     - **Template Detalhado para IA:** `(delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, luminous pastel color palette, wet-on-wet technique, gentle and serene feel`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges. dreamy and artistic aesthetic. luminous pastel color palette, wet-on-wet technique. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges. dreamy and artistic aesthetic, soft, overcast light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges. dreamy and artistic aesthetic, soft, overcast light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção E: "Recorte de Papel (Estilo Teatrinho)"**
     - **Descrição:** Estética que simula um diorama ou teatrinho de marionetes, com personagens e cenários feitos de camadas de papel recortado, gerando profundidade e sombras realistas. **Pense em:** *Charlie e Lola, Lotte Reiniger*.
     - **Template Detalhado para IA:** `(paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3), handcrafted theatrical look, charming and crafty, folk art simplicity`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3). handcrafted theatrical look, charming and crafty. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3). handcrafted theatrical look, charming and crafty. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3). handcrafted theatrical look, charming and crafty. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"**
     - **Descrição:** Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e com formas "fofas" e arredondadas, projetado para máxima clareza e apelo visual para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*.
     - **Template Detalhado para IA:** `(2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients, clean outlines, subtle 3D extrusion effect, highly engaging`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients. highly engaging. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"**
     - **Descrição:** Estilo clássico de animação europeia ("ligne claire"). Caracterizado por **contornos pretos de espessura uniforme**, cores chapadas (sem gradientes ou sombras) e um design gráfico e muito legível. **Pense em:** *As Trigémeas, Tintim*.
     - **Template Detalhado para IA:** `(European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients, cel-shaded, charmingly simple character designs, highly readable graphic sensibility`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients. highly readable graphic sensibility. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção H: "Animação 2D Elegante (Estilo Sagwa)"**
     - **Descrição:** Animação 2D sofisticada com linhas de contorno finas e caligráficas, design de personagens gracioso e cenários que parecem pinturas em guache, criando um visual artístico e polido. **Pense em:** *Sagwa, a Gatinha Siamesa*.
     - **Template Detalhado para IA:** `(elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, sophisticated and gentle color theory, expressive gem-like eyes`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious gem-like eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), backgrounds like gouache paintings. sophisticated and gentle color theory. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), backgrounds like gouache paintings, graceful and flowing animation. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), backgrounds like gouache paintings, graceful and flowing animation. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção I: "Aquarela Texturizada (Lápis de Cor)"**
     - **Descrição:** Visual de mídia mista que combina a suavidade da aquarela com a textura do lápis de cor. Os **contornos são coloridos e levemente esboçados**, criando uma atmosfera artesanal, moderna e aconchegante. **Pense em:** *Ilustrações de livros infantis contemporâneos (Chris Riddell)*.
     - **Template Detalhado para IA:** `(charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes and organic blotches, heavyweight textured paper feel, whimsical and modern storybook aesthetic, cozy and heartwarming`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes and organic blotches. heavyweight textured paper feel. cozy and heartwarming. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes. heavyweight textured paper feel. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes. heavyweight textured paper feel. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
   - **Opção J: "Ilustração Expressiva Brasileira (Estilo Giz de Cera)"**
     - **Descrição:** Estilo vibrante e cheio de energia, inspirado na ilustração de livros infantis brasileiros. Caracteriza-se por **texturas fortes e rabiscos de giz de cera e lápis de cor**, cores tropicais e uma estética charmosa e folclórica. **Pense em:** *Trabalhos de ilustradores como Roger Mello ou Eva Furnari*.
     - **Template Detalhado para IA:** `(Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy`
+    - **Exemplo 1 (Leãozinho):**
+
+      ```text
+      Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style. rich and sunny tropical color palette. raw joyful energy. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 2 (Menino):**
+
+      ```text
+      Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style. rich and sunny tropical color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
+    - **Exemplo 3 (Menina):**
+
+      ```text
+      Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style. rich and sunny tropical color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+      ```
+
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
