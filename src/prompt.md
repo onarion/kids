@@ -132,19 +132,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds, whimsical and heartwarming aesthetic, timeless nostalgic feel
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `warm, gentle morning light`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `warm, gentle morning light`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds, whimsical and heartwarming aesthetic, timeless nostalgic feel. warm, gentle morning light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (classic children's storybook illustration, E.H. Shepard inspired:1.4), charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds, whimsical and heartwarming aesthetic, timeless nostalgic feel. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -162,19 +162,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft skin, polished modern look
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `warm, gentle morning light`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `warm, gentle morning light`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft fur, polished modern look. warm, gentle morning light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (cinematic 3D animation, Disney Pixar style:1.4), masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft skin, polished modern look. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -192,19 +192,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect, warm studio lighting
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `warm studio lighting`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `warm studio lighting`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect, warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (Claymation style, Aardman Animations inspired:1.4), tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect, warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -222,19 +222,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, luminous pastel color palette, wet-on-wet technique, gentle and serene feel
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `luminous pastel color palette`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `luminous pastel color palette`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, luminous pastel color palette, wet-on-wet technique, gentle and serene feel. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, luminous pastel color palette, wet-on-wet technique, gentle and serene feel. soft, overcast light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -252,19 +252,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3), handcrafted theatrical look, charming and crafty, folk art simplicity
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `soft drop shadows`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `soft drop shadows`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3), handcrafted theatrical look, charming and crafty, folk art simplicity. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (paper cut-out style, diorama shadow box aesthetic:1.4), 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3), handcrafted theatrical look, charming and crafty, folk art simplicity. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -282,19 +282,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients, subtle 3D extrusion effect, highly engaging
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `vibrant candy-colored palette, perfectly smooth gradients`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `vibrant candy-colored palette, perfectly smooth gradients`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients, subtle 3D extrusion effect, highly engaging. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (2.5D vector art, Cocomelon-inspired style:1.4), maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients, subtle 3D extrusion effect, highly engaging. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -312,19 +312,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients, cel-shaded, charmingly simple character designs, highly readable graphic sensibility
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `flat solid colors, absolutely no gradients`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `flat solid colors, absolutely no gradients`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients, cel-shaded, charmingly simple character designs, highly readable graphic sensibility. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients, cel-shaded, charmingly simple character designs, highly readable graphic sensibility. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -342,19 +342,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, sophisticated and gentle color theory, expressive gem-like eyes
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious gem-like eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `sophisticated and gentle color theory`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious gem-like eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `sophisticated and gentle color theory`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious gem-like eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, sophisticated and gentle color theory, expressive gem-like eyes. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, sophisticated and gentle color theory, expressive gem-like eyes. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -372,17 +372,20 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes and organic blotches, heavyweight textured paper feel, whimsical and modern storybook aesthetic, cozy and heartwarming
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `gentle watercolor washes and organic blotches`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `gentle watercolor washes and organic blotches`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes and organic blotches, heavyweight textured paper feel, whimsical and modern storybook aesthetic, cozy and heartwarming. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
-        ```    - **Mais Exemplos (Prompts Completos):**
+        ```
+
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
+
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (charming digital illustration with traditional media textures, Chris Riddell inspired:1.4), (soft and sketchy colored pencil outlines with visible cross-hatching:1.3), gentle watercolor washes and organic blotches, heavyweight textured paper feel, whimsical and modern storybook aesthetic, cozy and heartwarming. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
@@ -399,19 +402,19 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy
         ```
 
-    - **Exemplo de Construção (Leãozinho):**
-      - `{{SHOT_TYPE}}`: `Medium shot`
-      - `{{SUBJECT}}`: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
-      - `{{ACTION_&_EMOTION}}`: `smiling gently and looking directly at the viewer`
-      - `{{LOCATION_&_CONTEXT}}`: `set against a simple, soft-focus background of green leaves`
-      - `{{LIGHTING_&_COLOR}}`: `rich and sunny tropical color palette`
-    - **Resultado Final (Prompt Completo):**
+    - **Demonstração da Fórmula Mestra:**
+      - **`{{SHOT_TYPE}}`**: `Medium shot`
+      - **`{{SUBJECT}}`**: `(a cute and fluffy lion cub with big, curious brown eyes:1.3)`
+      - **`{{ACTION_&_EMOTION}}`**: `smiling gently and looking directly at the viewer`
+      - **`{{LOCATION_&_CONTEXT}}`**: `set against a simple, soft-focus background of green leaves`
+      - **`{{LIGHTING_&_COLOR}}`**: `rich and sunny tropical color palette`
+    - **Prompt Final Montado (Exemplo Canônico):**
 
         ```text
         Medium shot of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer, set against a simple, soft-focus background of green leaves. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-    - **Mais Exemplos (Prompts Completos):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
         ```text
         Medium shot of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle, splashing water, set on a cobblestone path in a charming village park after the rain. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
@@ -420,7 +423,6 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         ```text
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella, set on a cobblestone path in a charming village park after the rain. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
-
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
   - **Opção A: "Canção de Ninar (Lullaby)"** - Melodias suaves e ritmo lento, ideais para acalmar e preparar para dormir.
