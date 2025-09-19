@@ -124,7 +124,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
   - **Opção B: "Alegre e Energético"** - Perfeito para canções animadas e aventuras diurnas. A energia de um parquinho ensolarado.
   - **Opção C: "Curioso e Mágico"** - Para explorar mundos fantásticos e despertar a imaginação. O sentimento de descobrir um segredo maravilhoso.
 - **Estilo Visual Principal:**
-  - **Opção A: "Aquarela Clássica (Contornos de Tinta)"**
+  - **Opção A: "Aquarela Clássica (Contornos de Tinta)"** (TODO: REVISAR)
     - **Descrição:** O visual atemporal de um livro de fábulas. Caracteriza-se por **contornos expressivos feitos a tinta** e preenchimento com cores suaves de aquarela, criando um forte contraste entre a linha e a mancha. **Pense em:** *Ursinho Pooh (E.H. Shepard), As Aventuras de Paddington*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -154,7 +154,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (classic children's storybook illustration, E.H. Shepard inspired:1.4), full bleed illustration, charming hand-drawn style, (expressive and distinct ink outlines with varied line weight:1.3), soft watercolor washes with gentle color bleeds, whimsical and heartwarming aesthetic, timeless nostalgic feel. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"**
+  - **Opção B: "Animação 3D (Estilo Pixar/Disney)"** (TODO: REVISAR)
     - **Descrição:** Personagens cativantes com profundidade e iluminação sofisticada. O foco é em texturas ricas e um apelo emocional universal, buscando um visual cinematográfico e polido. **Pense em:** *Toy Story, Procurando Nemo*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -184,7 +184,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (cinematic 3D animation, Disney Pixar style:1.4), full bleed illustration, masterful storytelling through lighting, beautifully rendered with global illumination and soft ambient occlusion, appealing character design with expressive eyes, rich textures and intricate shaders, subsurface scattering for soft skin, polished modern look. soft, overcast light reflecting on wet surfaces. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção C: "Claymation (Estilo Massa de Modelar)"**
+  - **Opção C: "Claymation (Estilo Massa de Modelar)"** (TODO: REVISAR)
     - **Descrição:** Visual tátil e artesanal, com a imperfeição charmosa do stop-motion. Personagens de plasticina e cenários em miniatura criam uma atmosfera única e tangível. **Pense em:** *Shaun, o Carneiro; O Galinho Chicken Little*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -214,7 +214,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (Claymation style, Aardman Animations inspired:1.4), full bleed illustration, tangible stop-motion aesthetic, meticulously handcrafted look, (visible fingerprint textures on plasticine characters:1.2), detailed diorama-like miniature sets, charmingly imperfect, warm studio lighting. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção D: "Aquarela Pura (Sem Contornos)"**
+  - **Opção D: "Aquarela Pura (Sem Contornos)"** (TODO: REVISAR)
     - **Descrição:** Um estilo delicado onde as formas são definidas **exclusivamente pelas manchas de cor**, sem nenhuma linha de contorno. Cria uma atmosfera sonhadora, artística e etérea, ideal para temas calmos. **Pense em:** *Os livros de Beatrix Potter (Pedro Coelho)*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -244,7 +244,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (delicate ethereal watercolor illustration, Beatrix Potter aesthetic:1.4), full bleed illustration, (completely lineless art:1.3), shapes defined by translucent layers of color, soft blooming edges, dreamy and artistic aesthetic, luminous pastel color palette, wet-on-wet technique, gentle and serene feel. soft, overcast light. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"**
+  - **Opção E: "Recorte de Papel (Estilo Teatrinho)"** (TODO: REVISAR)
     - **Descrição:** Estética que simula um diorama ou teatrinho de marionetes, com personagens e cenários feitos de camadas de papel recortado, gerando profundidade e sombras realistas. **Pense em:** *Charlie e Lola, Lotte Reiniger*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -274,7 +274,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (paper cut-out style, diorama shadow box aesthetic:1.4), full bleed illustration, 2.5D perspective, (layered paper effect with tangible textures and soft drop shadows:1.3), handcrafted theatrical look, charming and crafty, folk art simplicity. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"**
+  - **Opção F: "Vetor Vibrante 2.5D (Estilo Cocomelon)"** (TODO: REVISAR)
     - **Descrição:** Formas simples, cores vivas e gradientes suaves. Um estilo moderno, claro e com formas "fofas" e arredondadas, projetado para máxima clareza e apelo visual para o público pré-escolar. **Pense em:** *Cocomelon, Galinha Pintadinha*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -304,7 +304,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (2.5D vector art, Cocomelon-inspired style:1.4), full bleed illustration, maximum visual clarity for toddlers, vibrant candy-colored palette, (bold, chunky, and friendly geometric shapes:1.2), perfectly smooth gradients, subtle 3D extrusion effect, highly engaging. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"**
+  - **Opção G: "Cartum 2D com Linha Clara (Estilo As Trigémeas)"** (TODO: BLINDAR PARA NAO CRIAR BORDA)
     - **Descrição:** Estilo clássico de animação europeia ("ligne claire"). Caracterizado por **contornos pretos de espessura uniforme**, cores chapadas (sem gradientes ou sombras) e um design gráfico e muito legível. **Pense em:** *As Trigémeas, Tintim*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -334,7 +334,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (European clear line cartoon style, "ligne claire", Hergé's Tintin influence:1.4), full bleed illustration, (bold, crisp, and perfectly uniform line weight:1.3), flat solid colors, absolutely no gradients, cel-shaded, charmingly simple character designs, highly readable graphic sensibility. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção H: "Animação 2D Elegante (Estilo Sagwa)"**
+  - **Opção H: "Animação 2D Elegante (Estilo Sagwa)"** (TODO: MUDOU O ESTILO NA NOVA REVISAO)
     - **Descrição:** Animação 2D sofisticada com linhas de contorno finas e caligráficas, design de personagens gracioso e cenários que parecem pinturas em guache, criando um visual artístico e polido. **Pense em:** *Sagwa, a Gatinha Siamesa*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -364,7 +364,7 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (elegant 2D animation style, reminiscent of "Sagwa the Chinese Siamese Cat":1.4), full bleed illustration, (fine and delicate calligraphic line art:1.2), graceful and flowing animation, backgrounds like gouache paintings, sophisticated and gentle color theory, expressive gem-like eyes. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-  - **Opção I: "Aquarela Texturizada (Lápis de Cor)"**
+  - **Opção I: "Aquarela Texturizada (Lápis de Cor)"** (TODO: BLINDAR PARA NAO CRIAR BORDA)
     - **Descrição:** Visual de mídia mista que combina a suavidade da aquarela com a textura do lápis de cor. Os **contornos são coloridos e levemente esboçados**, criando uma atmosfera artesanal, moderna e aconchegante. **Pense em:** *Ilustrações de livros infantis contemporâneos (Chris Riddell)*.
     - **Core do Estilo para IA (ART_STYLE_CORE):**
 
@@ -424,29 +424,29 @@ Esta é a sua principal ferramenta de interação. Ao iniciar uma nova etapa cri
         Medium shot of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The entire 16:9 frame is filled with a cobblestone path in a charming village park after the rain, extending to all edges. (Vibrant and expressive storybook illustration, Roger Mello and Eva Furnari inspired:1.5), full bleed illustration, bold and unapologetic textures, (energetic crayon and colored pencil scribbles:1.3), gouache painting style, visible hand-drawn imperfections, folksy and narrative aesthetic, rich and sunny tropical color palette, raw joyful energy. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
         ```
 
-- **Opção K: "Clássico Aconchegante (Lápis de Cor Texturizado)"**
-  - **Descrição:** Inspirado diretamente nas suas referências visuais (o coelho e a ovelha), este estilo evoca a sensação tátil de um livro de alta qualidade ilustrado à mão. Caracteriza-se pelo uso magistral de **lápis de cor sobre papel texturizado**, criando uma suavidade e profundidade únicas. As formas são definidas **sem linhas de contorno**, apenas pela cor e pelo sombreamento delicado. A paleta é suave e dessaturada, transmitindo uma atmosfera de aconchego, nostalgia e gentileza. **Pense em:** *Clássicos modernos da literatura infantil, com um toque artesanal e sofisticado*.
-  - **Core do Estilo para IA (ART_STYLE_CORE):**
+  - **Opção K: "Clássico Aconchegante (Lápis de Cor Texturizado)"**
+    - **Descrição:** Inspirado diretamente nas suas referências visuais (o coelho e a ovelha), este estilo evoca a sensação tátil de um livro de alta qualidade ilustrado à mão. Caracteriza-se pelo uso magistral de **lápis de cor sobre papel texturizado**, criando uma suavidade e profundidade únicas. As formas são definidas **sem linhas de contorno**, apenas pela cor e pelo sombreamento delicado. A paleta é suave e dessaturada, transmitindo uma atmosfera de aconchego, nostalgia e gentileza. **Pense em:** *Clássicos modernos da literatura infantil, com um toque artesanal e sofisticado*.
+    - **Core do Estilo para IA (ART_STYLE_CORE):**
 
-      ```text
-      (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, nostalgic and heartwarming children's book aesthetic
-      ```
+        ```text
+        (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, nostalgic and heartwarming children's book aesthetic
+        ```
 
-  - **Prompt Final Montado (Exemplo Canônico):**
+    - **Prompt Final Montado (Exemplo Canônico):**
 
-      ```text
-      Full bleed illustration of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer. The background is a dense, soft-focus wall of green leaves, completely filling the entire 16:9 frame from edge to edge, with details extending past all four borders. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, nostalgic and heartwarming children's book aesthetic. soft ambient lighting, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
-      ```
+        ```text
+        Full bleed illustration of (a cute and fluffy lion cub with big, curious brown eyes:1.3), smiling gently and looking directly at the viewer. The background is a dense, soft-focus wall of green leaves, completely filling the entire 16:9 frame from edge to edge, with details extending past all four borders. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, nostalgic and heartwarming children's book aesthetic. soft ambient lighting, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: white background, border, margin, vignette, faded edges, isolated subject, incomplete background, floating subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
 
-  - **Exemplos Adicionais (Demonstração de Versatilidade):**
+    - **Exemplos Adicionais (Demonstração de Versatilidade):**
 
-      ```text
-      Full bleed illustration of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle. The background is a dense cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, (completely lineless art style:1.6), nostalgic and heartwarming children's book aesthetic. soft, overcast light reflecting on wet surfaces, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
-      ```
+        ```text
+        Full bleed illustration of (a cheerful little boy with curly brown hair and freckles, wearing a yellow raincoat and blue boots:1.3), happily jumping in a small puddle. The background is a dense cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, (completely lineless art style:1.6), nostalgic and heartwarming children's book aesthetic. soft, overcast light reflecting on wet surfaces, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
 
-      ```text
-      Full bleed illustration of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a dense cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, (completely lineless art style:1.6), nostalgic and heartwarming children's book aesthetic. soft, overcast light reflecting on wet surfaces, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
-      ```
+        ```text
+        Full bleed illustration of (a joyful little girl with blonde pigtails, wearing a pink raincoat and green boots:1.3), laughing as she holds a bright red umbrella. The background is a dense cobblestone path in a charming village park after the rain, completely filling the entire 16:9 frame from edge to edge. (Masterful colored pencil illustration on heavy textured paper:1.5), cinematic and richly detailed aesthetic, (full bleed illustration:1.3), soft chalk pastel textures, (no outlines:1.5), gentle and meticulous shading defining the form, (completely lineless art style:1.6), nostalgic and heartwarming children's book aesthetic. soft, overcast light reflecting on wet surfaces, muted and desaturated earthy color palette. --ar 16:9. masterpiece, best quality, 4k, high detail, charming, for children, safe for kids. Negative prompt: ink outlines, dark lines, black outlines, cartoon outlines, white background, border, margin, vignette, faded edges, isolated subject, (worst quality, low quality, blurry, jpeg artifacts:1.4), ugly, deformed, scary, inappropriate, nsfw, bad anatomy, text, watermark, signature, artist name, high contrast patterns, flashing colors, pure red flashes, visual clutter, scary eyes, horror, gore.
+        ```
 
 - **Descritores Visuais Adicionais:** `{{DESCRITORES_ADICIONAIS}}` (Ex: `gentle lighting`, `cozy atmosphere`, `charming and cute`)
 - **Estilo Musical Principal:**
