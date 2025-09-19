@@ -1,4 +1,4 @@
-# Bíblia de Produção: As Fábulas Ritmadas da Belinha
+# Bíblia de Produção: A Turma da Belinha
 
 ## SEÇÃO 0: IDENTIDADE DO CANAL
 
@@ -9,7 +9,7 @@
 
 ## SEÇÃO 1: O CORAÇÃO DA PRODUÇÃO
 
-- **Título da Coleção:** `As Fábulas Ritmadas da Belinha`
+- **Título da Coleção:** `A Turma da Belinha`
 - **Público-Alvo Primário (Faixa Etária):** `Crianças de 2 a 7 anos`
 - **Público-Alvo Secundário:** `Pais, familiares e educadores`
 - **Tipo de Conteúdo (A Escolha Fundamental):** `Valores Universais`
@@ -17,8 +17,8 @@
 - **A Lição Central (Tema):** `A gentileza e a curiosidade, expressas através da música, podem resolver qualquer problema.`
 - **Pilares de Conteúdo:** `Inteligência Emocional, Resolução Criativa de Problemas, O Encanto da Natureza.`
 - **Universo Tonal:** `Aconchegante como um suéter de lã, alegre como uma melodia assobiada.`
-- **Estilo Visual Principal:** `Watercolor illustration, storybook aesthetic`
-- **Descritores Visuais Adicionais:** `soft pastel colors, gentle lighting, charming and cozy, clean outlines`
+- **Estilo Visual Principal:** `Clássico Aconchegante (Lápis de Cor Texturizado)`
+- **Descritores Visuais Adicionais:** `soft ambient lighting, muted and desaturated earthy color palette, nostalgic and heartwarming`
 - **Estilo Musical Principal:** `Folk Acústico Infantil`
 - **Estilo Vocal:** `a sweet and clear female voice, friendly and warm`
 - **Ritmo Padrão das Cenas:** `Moderado`
